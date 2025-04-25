@@ -1,6 +1,6 @@
 # fermiMosaic-toolkits
 
-FermiMosaic is a streamlined toolkit for generating photo mosaics, which I developed to create my latest piece—a tribute to the anime I watched, the comics I read, and the games I played over the past 50 years.
+FermiMosaic is a streamlined toolkit for generating photo mosaics, which I developed to create my latest piece—a tribute to the anime I watched, the comics I read, and the games I played over the past 50 years. 
 The project was assisted by free AI models such as ChatGPT, Copilot, DeepSeek, Qwen, and others. FermiMosaic processes a library of tile images to create various mosaic patterns based on a target image. The tool features a user-friendly web interface that guides users through a step-by-step process, with options tailored for both beginners and advanced users..
 
 
